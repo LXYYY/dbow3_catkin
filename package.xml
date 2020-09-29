@@ -1,7 +1,7 @@
 <package>
-  <name>fbow_catkin</name>
+  <name>dbow3_catkin</name>
   <version>0.0.1</version>
-  <description>fbow_catkin</description>
+  <description>dbow3_catkin</description>
   <maintainer email="xiangyu002@e.ntu.edu.sg">Mike Xiangyu Liu</maintainer>
 
   <license>See package</license>
